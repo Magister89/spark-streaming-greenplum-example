@@ -10,9 +10,9 @@ SBT 1.3.3 and Scala 2.11.12
 
 ##### Requirements
 
-greenplum-spark_2.11-1.6.1.jar
-spark-sql-kafka-0-10_2.11-2.4.4.jar
-kafka-clients-0.10.0.0.jar
+* greenplum-spark_2.11-1.6.1.jar
+* spark-sql-kafka-0-10_2.11-2.4.4.jar
+* kafka-clients-0.10.0.0.jar
 
 ##### Run Example
 
